@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">✨ PERN Stack Tutorial ✨</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
@@ -37,3 +38,7 @@ npm run dev
 cd frontend
 npm run dev
 ```
+=======
+# Martova
+A full stack product store
+>>>>>>> a3f9320792732c5c7391b10ea592ffec35f4aa1d
